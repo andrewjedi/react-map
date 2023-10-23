@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Marina del Rey",
+      "country": "United States of America (the)",
+      "notes": "i love marina del rey, it's getting beat down though :(",
+      "emoji": "🇺🇸",
+      "date": "2023-10-22T23:50:11.983Z",
+      "position": {
+        "lat": "33.9776734886543",
+        "lng": "-118.44875335693361"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Venice",
+      "country": "United States of America (the)",
+      "notes": "cool area to go out for sure... venice has hip spots",
+      "emoji": "🇺🇸",
+      "date": "2023-10-22T23:53:08.912Z",
+      "position": {
+        "lat": "33.99503855201645",
+        "lng": "-118.46694946289062"
+      },
+      "id": 98443200
     }
   ]
 }
