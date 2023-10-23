@@ -49,16 +49,28 @@
       "id": 98443199
     },
     {
-      "cityName": "Venice",
+      "cityName": "Culver City",
       "country": "United States of America (the)",
-      "notes": "cool area to go out for sure... venice has hip spots",
+      "notes": "love culver",
       "emoji": "🇺🇸",
-      "date": "2023-10-22T23:53:08.912Z",
+      "date": "2023-10-23T00:28:56.429Z",
       "position": {
-        "lat": "33.99503855201645",
-        "lng": "-118.46694946289062"
+        "lat": "34.02065265701688",
+        "lng": "-118.39536666870119"
       },
       "id": 98443200
+    },
+    {
+      "cityName": "Beverly Hills",
+      "country": "United States of America (the)",
+      "notes": "expensive city",
+      "emoji": "🇺🇸",
+      "date": "2023-10-23T00:34:49.098Z",
+      "position": {
+        "lat": "34.07086232376631",
+        "lng": "-118.39588165283205"
+      },
+      "id": 98443201
     }
   ]
 }
